@@ -1,4 +1,4 @@
-// src/pages/Home.jsx
+
 import React from 'react';
 import './Home.css';
 
@@ -18,7 +18,7 @@ function Home() {
             </svg>
           </div>
         </div>
-        <h1 className="name">Alex Johnson</h1>
+        <h1 className="name">K Gnanesh</h1>
         <p className="tagline">Computer Science Student | Full Stack Developer</p>
       </div>
 
@@ -51,16 +51,16 @@ function Home() {
         <h2>👤 Personal Details</h2>
         <div className="details-grid">
           <div className="detail-item">
-            <strong>📛 Name:</strong> Alex Johnson
+            <strong>📛 Name:</strong> K Gnanesh
           </div>
           <div className="detail-item">
-            <strong>📞 Phone:</strong> +1 (555) 123-4567
+            <strong>📞 Phone:</strong> +91 6942037769
           </div>
           <div className="detail-item">
-            <strong>📧 Personal Email:</strong> alex.johnson@example.com
+            <strong>📧 Personal Email:</strong> gnaneshworks@tmail.com
           </div>
           <div className="detail-item">
-            <strong>🎓 College Email:</strong> alex.johnson@university.edu
+            <strong>🎓 College Email:</strong> se23umcs023@mahindrauniversity.edu.in
           </div>
         </div>
 
